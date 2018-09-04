@@ -15,3 +15,6 @@ C:\Users\Braydon\Documents\Visual Studio 2017\Projects\Software2\Software2\obj\D
 C:\Users\Braydon\Documents\Visual Studio 2017\Projects\Software2\Software2\obj\Debug\Software2.csproj.GenerateResource.Cache
 C:\Users\Braydon\Documents\Visual Studio 2017\Projects\Software2\Software2\obj\Debug\Software2.exe
 C:\Users\Braydon\Documents\Visual Studio 2017\Projects\Software2\Software2\obj\Debug\Software2.pdb
+C:\Users\Braydon\Documents\Visual Studio 2017\Projects\Software2\Software2\bin\Debug\SimpleInjector.dll
+C:\Users\Braydon\Documents\Visual Studio 2017\Projects\Software2\Software2\bin\Debug\SimpleInjector.xml
+C:\Users\Braydon\Documents\Visual Studio 2017\Projects\Software2\Software2\obj\Debug\Software2.Main.resources
